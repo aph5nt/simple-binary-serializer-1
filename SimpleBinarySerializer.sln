@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBinarySerializer", "SimpleBinarySerializer\SimpleBinarySerializer.csproj", "{392DC82B-A21C-4891-8528-600A5F5ED2C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBinarySerializer.Tests", "SimpleBinarySerializer.Tests\SimpleBinarySerializer.Tests.csproj", "{8A51BCDC-35BF-42D9-89B3-002521B6D3D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392DC82B-A21C-4891-8528-600A5F5ED2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392DC82B-A21C-4891-8528-600A5F5ED2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392DC82B-A21C-4891-8528-600A5F5ED2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392DC82B-A21C-4891-8528-600A5F5ED2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A51BCDC-35BF-42D9-89B3-002521B6D3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A51BCDC-35BF-42D9-89B3-002521B6D3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A51BCDC-35BF-42D9-89B3-002521B6D3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A51BCDC-35BF-42D9-89B3-002521B6D3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
